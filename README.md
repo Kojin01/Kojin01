@@ -1,2 +1,2 @@
 # Bem vindo ao meu perfil.
-<div class="center">TESTEEEEEEEEEEEEEEEEEEEe</div>
+<div style="text-align=center;>TESTEEEEEEEEEEEEEEEEEEEe</div>
