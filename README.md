@@ -1,8 +1,5 @@
-<h2 align="center">Hello my name is Kauã Batista</h2>
-<h4 align="center">I'm passionate about programming</h4>
 <blockquote>
-	At the moment, I'm learning how to develop website, I'll put everything I learn here on github. the languages I'll be learning is PHP,HTML,CSS, JavaScript
+	Hi, my name is Kauã Batista, I'm doing projects and I'll publish them here on gitHub.
 </blockquote>
+<img src="https://th.bing.com/th/id/R.b6c2e1e6ad33f603be21e8c925fc4948?rik=yG1iUdwHJ5VyNg&pid=ImgRaw&r=0" />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kojin01&layout=compact&theme=radical)](https://github.com/Kojin01/github-readme-stats)
